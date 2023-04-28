@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-dibo": {
+      "hosting": {
+        "ring-of-fire": [
+          "fir-dibo"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-dibo"
+  }
+}
