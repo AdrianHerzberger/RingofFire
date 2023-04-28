@@ -3,6 +3,8 @@
     height: 100vh;
     max-width: 100%;
     background-image: url('/assets/img/board.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -79,7 +81,6 @@
     right: 0;
     top: 0;
     display: flex;
-    overflow-x: scroll;
     overflow-y: hidden;
 
     app-player-moible {
